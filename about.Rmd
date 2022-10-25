@@ -1,0 +1,12 @@
+---
+title: "About this website"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Jeff's awesome website
+
+this awesome webiste is made in rmakrdown and other stuff
+

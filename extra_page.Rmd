@@ -1,0 +1,9 @@
+---
+title: "extra page"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+This is an extra page
