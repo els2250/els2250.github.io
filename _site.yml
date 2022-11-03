@@ -12,4 +12,4 @@ navbar:
       href: http://github.com/els2250/
 output:
   html_document:
-    theme: cerulean
+    theme: simplex
