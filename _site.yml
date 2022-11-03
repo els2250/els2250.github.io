@@ -5,6 +5,8 @@ navbar:
   right:
     - text: "About"
       href: about.html
+    - text: "Dashboard"
+      href: flexdashboard.html
     - icon: fa-solid fa-bug
     - icon: fa-envelope fa-lg
       href: mailto:<you@youremail.com>

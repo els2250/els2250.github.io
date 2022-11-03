@@ -1,25 +1,17 @@
 ---
-title: "Plotly"
+title: "AirBNB Dashboard"
 output: 
-  html_document:
-    toc: true
-    toc_float: true
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
 ---
 
-We're going to make some plotly plots.
-
-## Load packages and data
-
-```{r}
+```{r setup, include=FALSE}
 library(tidyverse)
 library(p8105.datasets)
-
+library(flexdashboard)
 library(plotly)
-```
 
-Let's get some data.
-
-```{r}
 data("nyc_airbnb")
 
 # narrow down data
@@ -37,7 +29,11 @@ nyc_airbnb <-
   drop_na(rating)
 ```
 
-Let's make a scatterplot!!
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
 
 ```{r}
 nyc_airbnb %>% 
@@ -51,7 +47,10 @@ nyc_airbnb %>%
   )
 ```
 
-Can we make boxplots?? Sure can!
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
 
 ```{r}
 nyc_airbnb %>% 
@@ -62,7 +61,7 @@ nyc_airbnb %>%
   )
 ```
 
-Can we make a bar plot?
+### Chart C
 
 ```{r}
 nyc_airbnb %>% 
@@ -74,28 +73,7 @@ nyc_airbnb %>%
   )
 ```
 
-Plotly r graphing library = great place to find different plots
+This will create the dashboard on the website:
+rmarkdown::render("dashboard.Rmd", output_format = "flexdashboard::flex_dashboard")
 
-
-## ggplotly...
-
-```{r}
-ggp_scatterplot <- 
-  nyc_airbnb %>% 
-  ggplot(aes(x = lat, y = long, color = price)) +
-  geom_point()
-
-ggplotly(ggp_scatterplot)
-```
-
-Helpful to know exist -- it's quicker and easier to make things in ggplot
-
-Problem -- the plots that are made in this way are slower to interact, more difficult to control, less appealing to users
-
-Don't encourage to use
-
-
-## Create a dashboard ...
-
-Not here though...
-
+Only an issue if you're making a website with a dashboard on it. 
