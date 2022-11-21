@@ -1,31 +1,14 @@
 ---
-title: "My awesome website"
+title: "Emma L. Sexton"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This is Jeff's awesome website
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+![](images/EmmaSexton_Headshot.jpg)
 
-Here's some text. I like the internet. I use [google](https://www.google.com/) all the time to do data science.
+## Introduction
+Hello! My name is **Emma Sexton**, and I am currently a second-year graduate student at Columbia University Mailman School of Public Health in the Heilbrunn Department of Population and Family Health with a certificate in Public Health Research Methods. My current coursework merges human rights-based frameworks with quantitative and qualitative data analysis to accurately conduct research and needs assessments and effectively create, implement, and manage public health programs. With a profound concern for the individual and community on the local, regional, and global scale, I have a particular interest in analyzing the social and environmental factors that impact maternal health and child development.
 
-
-Put in picture of ted using "![](images/ted.jpg)"
-
-```{r}
-library(tidyverse)
-
-sample = rnorm(1000)
-mean(sample)
-```
-
-Here's a direct link to the about page: [about](about.html)
-
-I also made a bonus [extra page](extra_page.html)
-
-## New Section!!
-
-[Here's](plotly.html) a page with plotly plots

@@ -1,0 +1,67 @@
+---
+title: "Relevant Academic & Professional Experience"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+
+---
+
+<br/><br/>  
+
+## Education  
+
+**Columbia University Mailman School of Public Health**, *New York, NY, USA*  
+Master of Public Health, *anticipated May 2023*  
+Heilbrunn Department of Population and Family Health, Certificate in Public Health Research Methods 
+
+**Wake Forest University**, *Winston-Salem, NC, USA*  
+Bachelor of Science, Health & Exercise Science and Anthropology (double major), *received May 2019*  
+Dean’s List. Lambda Alpha National Collegiate Honors Society.   
+
+<br/><br/>  
+
+## Professional Experience
+  
+**Teaching Assistant for Quantitative Data Analysis**  
+Columbia University Mailman School of Public Health  
+*New York, NY | September 2022-Present*
+
+* Assisting the professor with in-person lectures and acting as a supportive resource to 30+ students.
+* Diligently grading assignments and mentoring students interested in furthering their studies in quantitative methods.  
+
+
+**Social Justice & Research Evaluation Intern**  
+Strength in Numbers Consulting Group  
+*New York, NY | May 2022-Present*  
+
+* Steering data analysis efforts by cleaning data, recoding variables, creating scales, outputting statistical tests, and disseminating results to clients. 
+* Used statistical software to conduct an evaluation of survey results to investigate the effectiveness of an after-school program for Black LGBTQ+ youth in fiscal year 2022 (FY22). 
+* Completed FY22 evaluation of a capacity building training program for professionals working with LGBTQ+ youth.
+* Initiated a literature review for a client investigating the criminalization of pregnancy in the United States.  
+
+
+**Clinical Research Assistant II, Epilepsy Genetics Program**  
+Boston Children’s Hospital, Department of Neurobiology  
+*Boston, MA | June 2019-June 2021*  
+
+* Increased enrollment by 25% and managed data and biological specimens for gene-specific research projects.
+* Developed a new data management system to improve data entry accuracy and led instructional workshop.
+* Coordinated an international and multi-institution collaboration investigating the spectrum of epilepsies related to the *CACNA1A* gene.
+* Applied for and received $50,000 grant for continued research efforts in *CACNA1A*-related epilepsy.  
+
+
+**Undergraduate Clinical Research Assistant**  
+Wake Forest University, Health & Exercise Science Department  
+*Winston-Salem, NC | Nov 2018-May 2019*  
+
+* Worked with experimental and control groups to assess metabolic flexibility in individuals with diabetes. 
+* Created research protocol detailing analytic calculations to ensure efficient turnover of research assistants.  
+  
+<br/><br/>  
+
+## Proficiencies  
+
+**Statistical & Data Visualization Programs**: R / RStudio, Stata, SPSS, Tableau  
+**Other Programs**: Adobe, EPIC, Google Workspace, Microsoft 365
+
