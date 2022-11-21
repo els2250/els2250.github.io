@@ -1,5 +1,5 @@
 ---
-title: "Relevant Academic & Professional Experience"
+title: ""
 output:
   html_document:
     toc: true
@@ -28,7 +28,7 @@ Teaching Assistant for Quantitative Data Analysis
 *New York, NY | Sep 2022-Present*  
 
 * Assist the professor with in-person lectures, coordinate weekly office hours, and grade weekly assignments and exams.
-* Mentor and support students with interest in quantitative research methods. 
+* Mentor and support students with interest in quantitative research methods.  
 
 **Strength in Numbers Consulting Group**  
 Social Justice Research & Evaluation Intern  
@@ -37,7 +37,7 @@ Social Justice Research & Evaluation Intern
 * Contribute to data analysis efforts by cleaning data, transforming variables, outputting statistical tests, and disseminating results to clients. 
 * Analyze survey responses using statistical software (Stata) to investigate the effectiveness of an after-school program for Black LGBTQ+ youth.
 * Evaluate a capacity building training program for professionals working with LGBTQ+ youth.
-* Assist with data quality assurance for a client investigating the criminalization of pregnancy in the United States. 
+* Assist with data quality assurance for a client investigating the criminalization of pregnancy in the United States.  
 
 **Boston Children’s Hospital, Department of Neurobiology**  
 Clinical Research Assistant II, Epilepsy Genetics Program  
@@ -46,44 +46,44 @@ Clinical Research Assistant II, Epilepsy Genetics Program
 * Applied for and received $50,000 grant for continued research efforts in CACNA1A-related epilepsy.
 * Increased enrollment by 25% and managed data and biological specimens for gene-specific research projects.
 * Developed a new data management system to improve data entry accuracy and led instructional workshop.
-* Coordinated an international and multi-institution collaboration investigating the spectrum of epilepsies related to the CACNA1A gene.
+* Coordinated an international and multi-institution collaboration investigating the spectrum of epilepsies related to the CACNA1A gene.  
 
 **Wake Forest University, Health & Exercise Science Department**  
 Undergraduate Clinical Research Assistant 
 *Winston-Salem, NC | Nov 2018-May 2019*  
 
 * Worked with experimental and control groups to assess metabolic flexibility in individuals with diabetes. 
-* Created research protocol detailing analytic calculations to ensure efficient turnover of research assistants. 
+* Created research protocol detailing analytic calculations to ensure efficient turnover of research assistants.  
 
 **Boston Children’s Hospital, Department of Cardiology**  
 Summer Intern, Cardiac Neurodevelopment Program  
 *Boston, MA | Jun 2018-Aug 2018*  
 
 * Gathered and organized data from patients and families while on the cardiac inpatient floor for research analytics. 
-* Created an informational pamphlet for parents of children (0-3 years old) with congenital heart disease  detailing potential neurological risks and ways to minimize those risks. 
+* Created an informational pamphlet for parents of children (0-3 years old) with congenital heart disease  detailing potential neurological risks and ways to minimize those risks.  
 
 **Wake Forest University, Health & Exercise Science Department**  
 Undergraduate Clinical Intern, WE-CAN and STARS Research Projects  
 *Winston-Salem, NC | Jan 2018-May 2018*  
 
-* Supported participants with exercises and documenting progress during weekly intervention trainings for the Weight Loss and Exercise for Communities with Arthritis in North Carolina (WE-CAN) project and the Strength Training and Runners Study (STARS).
+* Supported participants with exercises and documenting progress during weekly intervention trainings for the Weight Loss and Exercise for Communities with Arthritis in North Carolina (WE-CAN) project and the Strength Training and Runners Study (STARS).  
 
 <br/>
 
 ### Leadership Roles
-**Columbia University Mailman School of Public Health**  
-Financial Coordinator, Sexual and Reproductive Health Action Group  
+**Sexual and Reproductive Health Action Group, Columbia University Mailman School of Public Health**  
+Financial Coordinator  
 *New York, NY | Dec 2021-Present*  
 
 * Oversee budget and expenses for events while collaborating with other executive members and the school administration.
-* Assist with organizing and hosting group events, such as a community organization panel on promoting reproductive rights in New York City.
+* Assist with organizing and hosting group events, such as a community organization panel on promoting reproductive rights in New York City.  
 
 **Wake Forest University Campus Recreation**  
 Facilities Supervisor and Front Desk Assistant  
 *Winston-Salem, NC | Aug 2017-May 2019*  
 
 *	Led a small team to ensure event and exercise spaces were safe and used appropriately by patrons.
-*	Contributed to improving management of Campus Recreation activities and positions by helping resolve workflow issues. 
+*	Contributed to improving management of Campus Recreation activities and positions by helping resolve workflow issues.  
 
 **Alpha Delta Pi Sorority, Eta Upsilon Chapter**  
 Philanthropy Event Coordinator  
@@ -91,7 +91,7 @@ Philanthropy Event Coordinator
 
 *	Organized four events throughout the year, generating over $30,000 in charitable donations for the Ronald McDonald House Charities and the Alpha Delta Pi Foundation.
 *	Coordinated and campaigned the collection of over $65,000 in donations for additional charitable organizations within the Winston-Salem area.
-*	Inspired the chapter to participate in over 50 philanthropic events on campus and in the community, fostering a sense of solidarity and appreciation for both campus life and the greater Winston-Salem community. 
+*	Inspired the chapter to participate in over 50 philanthropic events on campus and in the community, fostering a sense of solidarity and appreciation for both campus life and the greater Winston-Salem community.  
 
 <br>
 
@@ -101,7 +101,7 @@ Playspace Activity Leader (PAL)
 *Boston, MA | Feb 2020-Aug 2021*  
 
 *	Promoted fun, respectful play among young children in a shelter playroom to assist with child development.
-*	Worked with a team of five volunteers during each shift to ensure the needs of the children were met during playtime. 
+*	Worked with a team of five volunteers during each shift to ensure the needs of the children were met during playtime.  
 
 <br>
 

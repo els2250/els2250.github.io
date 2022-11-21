@@ -6,9 +6,12 @@ output:
     toc_float: true
 ---
 
-
+<center>
 ![](images/EmmaSexton_Headshot.jpg)
+</center>  
 
-## Introduction
+<br/>  
+
+## Introduction  
 Hello! My name is **Emma Sexton**, and I am currently a second-year graduate student at Columbia University Mailman School of Public Health in the Heilbrunn Department of Population and Family Health with a certificate in Public Health Research Methods. My current coursework merges human rights-based frameworks with quantitative and qualitative data analysis to accurately conduct research and needs assessments and effectively create, implement, and manage public health programs. With a profound concern for the individual and community on the local, regional, and global scale, I have a particular interest in analyzing the social and environmental factors that impact maternal health and child development.
 

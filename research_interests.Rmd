@@ -21,10 +21,9 @@ Assessing biological, social, and environmental determinants of health on matern
 
 ### Poster Presentations
 
-```{r, image-ref-for-in-text, echo = FALSE, message=FALSE, fig.align='center'}
-knitr::include_graphics("images/AES2020_Sexton_DelayedSCN1ADiagnosis.pdf")
-```
+<center>
+![Delayed SCN1A Diagnosis: A Case Series of Three Families](images/AES2020_Sexton_DelayedSCN1ADiagnosis.pdf){width=100%}
+</uncenter>
 
-
-*	Sexton, E., et al. Delayed SCN1A Diagnosis: A Case Series of Three Families. Poster presented at: American Epilepsy Society Annual Meeting; December 2020; Baltimore, MD.
+Sexton, E., et al. Delayed SCN1A Diagnosis: A Case Series of Three Families. Poster presented at: American Epilepsy Society Annual Meeting; December 2020; Baltimore, MD.
 
