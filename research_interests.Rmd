@@ -1,5 +1,5 @@
 ---
-title: "Research Interests"
+title: "Research"
 output: 
   html_document:
     toc: true
@@ -8,22 +8,24 @@ output:
 
 ### Current Research Interests
 
-Assessing biological, social, and environmental determinants of health on maternal health, pregnancy outcomes, and child growth and development. 
+Assessing the intersection of biological, social, and environmental determinants of health and how they impact maternal health, pregnancy outcomes, and child growth and development, particularly in under-resourced settings.  
 
 <br> 
 
 ### Publications
 
-*	Xian, J., … Sexton, E., et al. (2021). Assessing the landscape of STXBP1-related disorders in 534 individuals. Brain, awab327. https://doi.org/10.1093/brain/awab327
-*	Rockowitz, S., … Sexton, E., et al. (2020). Children’s rare disease cohorts: An integrative research and clinical genomics initiative. Npj Genomic Medicine, 5(1), 29. https://doi.org/10.1038/s41525-020-0137-0
+* Xian, J., Parthasarathy, S., Ruggiero, S. M., Balagura, G., Fitch, E., Helbig, K., Gan, J., Ganesan, S., Kaufman, M. C., Ellis, C. A., Lewis-Smith, D., Galer, P., Cunningham, K., O’Brien, M., Cosico, M., Baker, K., Darling, A., Veiga de Goes, F., El Achkar, C. M., … Helbig, I. (2022). Assessing the landscape of STXBP1-related disorders in 534 individuals. Brain, 145(5), 1668–1683. https://doi.org/10.1093/brain/awab327
+
+*	Rockowitz, S., LeCompte, N., Carmack, M., Quitadamo, A., Wang, L., Park, M., Knight, D., Sexton, E., Smith, L., Sheidley, B., Field, M., Holm, I. A., Brownstein, C. A., Agrawal, P. B., Kornetsky, S., Poduri, A., Snapper, S. B., Beggs, A. H., Yu, T. W., … Sliz, P. (2020). Children’s rare disease cohorts: An integrative research and clinical genomics initiative. Npj Genomic Medicine, 5(1), 29. https://doi.org/10.1038/s41525-020-0137-0
 
 <br>
 
 ### Poster Presentations
 
+Sexton, E., et al. Delayed SCN1A Diagnosis: A Case Series of Three Families. Poster presented at: American Epilepsy Society Annual Meeting; December 2020; Baltimore, MD.
+
 <center>
 ![Delayed SCN1A Diagnosis: A Case Series of Three Families](images/AES2020_Sexton_DelayedSCN1ADiagnosis.pdf){width=100%}
-</uncenter>
+</center>
 
-Sexton, E., et al. Delayed SCN1A Diagnosis: A Case Series of Three Families. Poster presented at: American Epilepsy Society Annual Meeting; December 2020; Baltimore, MD.
 
