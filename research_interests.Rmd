@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research & Evaluation Experience"
 output: 
   html_document:
     toc: true
@@ -28,4 +28,12 @@ Sexton, E., et al. Delayed SCN1A Diagnosis: A Case Series of Three Families. Pos
 ![Delayed SCN1A Diagnosis: A Case Series of Three Families](images/AES2020_Sexton_DelayedSCN1ADiagnosis.pdf){width=100%}
 </center>
 
+### Applied Practicum Experience (APEx)
 
+At Mailman School of Public Health, there is a requirement to engage in an applied practicum during the summer between the first and second year in the program. As a **Social Justice Research & Evaluation Intern** at Strength in Numbers Consulting Group (SiNCG), I spent my summer evaluating a capacity building training program for a non-profit to promote more inclusivity in the spaces in which professionals interact with LGBTQ+ youth. The presentation below is from my APEx presentation this fall, which summarizes a few key findings from my evaluation project. 
+
+<center>
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/440c3b5333154a59a8b0dc0690bda03a" title="APEx Presentation: SiNCG Program Evaluation" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background-color: rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-top-left-radius: 6px; border-top-right-radius: 6px; border-bottom-right-radius: 6px; border-bottom-left-radius: 6px; -webkit-background-clip: padding-box; -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 314px;" data-ratio="1.78343949044586"></iframe>
+
+</center>

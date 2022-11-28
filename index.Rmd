@@ -12,6 +12,14 @@ output:
 
 <br/>  
 
-## Introduction  
+### Introduction  
 Hello! My name is **Emma Sexton**, and I am currently a second-year graduate student at Columbia University Mailman School of Public Health in the Heilbrunn Department of Population and Family Health with a certificate in Public Health Research Methods. My current coursework merges human rights-based frameworks with quantitative and qualitative data analysis to accurately conduct research and needs assessments and effectively create, implement, and manage public health programs. With a profound concern for the individual and community on the local, regional, and global scale, I have a particular interest in analyzing the social and environmental factors that impact maternal health and child development.
+
+<br/>
+
+### Navigation
+
+To navigate this site, there are three tabs located on the top scroll bar. Here, you can review [my CV](about.html) and [my past/current research pursuits and interests](research_interests.html). Under [hobbies](hobbies.html), you can learn more about what I do with my free time. The additional icons will link you to my email address, LinkedIn profile, and my GitHub account, where all my recent work in R/R studio is held. 
+
+Please feel free to contact me if you have any questions!
 
